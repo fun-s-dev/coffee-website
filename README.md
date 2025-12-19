@@ -2,21 +2,15 @@
 
 A responsive coffee website built as a **learning project**.
 
----
-
 ## 📌 Project Overview
 This project was created to understand the fundamentals of front-end web development, including
 page layout, styling, and basic interactivity.  
 The focus was on building a clean and responsive user interface.
 
----
-
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
 - JavaScript
-
----
 
 ## ✨ Features
 - Responsive layout
@@ -24,14 +18,10 @@ The focus was on building a clean and responsive user interface.
 - Navigation bar and sections
 - Basic animations and interactions
 
----
-
 ## 🎯 Learning Objectives
 - Practice semantic HTML structure  
 - Improve CSS styling and responsiveness  
 - Understand basic JavaScript usage in websites  
-
----
 
 ## 📂 Project Structure
 ```text
@@ -62,8 +52,6 @@ coffee-website/
 ├── style.css
 ├── script.js
 └── README.md
-
----
 
 ## 📂 How to Run Locally
 1. Clone the repository
